@@ -1,2 +1,4 @@
 0 string SCHOOL School data
 !:mime School
+chmod u+x school.mgc
+file -m school.mgc *
